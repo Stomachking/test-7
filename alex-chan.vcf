@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chan;Alex;;;
+FN:Alex Chan
+ORG:[Your Bank] Private Bank
+TITLE:Director, Private Wealth
+TEL;TYPE=CELL:+85200000000
+EMAIL;TYPE=WORK:alex.chan@example.com
+END:VCARD
